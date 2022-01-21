@@ -20,3 +20,12 @@ English learning record
 6. That house 那个房子
 7. These peoples 这些人
 8. Those threes 那些树
+
+## 形容词性物主代词+可数名词单数+is+the+形容词最高级+in+地名（拼音大写）四局
+
+1. my friend is the richest in ShangHai
+2. his house is the big in ChangSha
+3. Her book is the big in ShangHai
+4. my computer is the fast in ChangSha
+
+## 形容词性物主代词+可数名词单数+is+as+形容词原级+as+名词性物主代词/(限定词)可数名词单数/人称代词
