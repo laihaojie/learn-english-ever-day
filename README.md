@@ -14,9 +14,9 @@ English learning record
 
 1. This book 这个书
 2. That computer 那个电脑
-3. These cup 这些杯子
-4. Those table 那些桌子
+3. These cups 这些杯子
+4. Those tables 那些桌子
 5. This callphone 这个手机
 6. That house 那个房子
-7. These people 这些人
-8. Those three 那些树
+7. These peoples 这些人
+8. Those threes 那些树
