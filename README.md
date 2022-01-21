@@ -34,3 +34,10 @@ English learning record
 2. his book is as expensive as mine
 3. her computer is as bad as yours
 4. my table is as big as him
+
+## 形容词性物主代词+可数名词单数+is+形容词比较级+than+名词性物主代词/(限定词)可数名词单数/人称代词
+
+1. my book is richer than yours
+2. his cup is more beautiful than mine
+3. my book is more beautiful than her
+4. my book is good than him
