@@ -29,3 +29,8 @@ English learning record
 4. my computer is the fast in ChangSha
 
 ## 形容词性物主代词+可数名词单数+is+as+形容词原级+as+名词性物主代词/(限定词)可数名词单数/人称代词
+
+1. his house is as big as mine
+2. his book is as expensive as mine
+3. her computer is as bad as yours
+4. my table is as big as him
